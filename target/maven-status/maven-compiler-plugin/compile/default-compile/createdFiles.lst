@@ -1,0 +1,5 @@
+com\mycompany\strategy_pattern\BaseDatabaseManager.class
+com\mycompany\strategy_pattern\OraclaDatabaseManager.class
+com\mycompany\strategy_pattern\customerManager.class
+com\mycompany\strategy_pattern\sqlServerDatabaseManager.class
+com\mycompany\strategy_pattern\Strategy_pattern.class
